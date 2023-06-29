@@ -23,3 +23,4 @@
 3. В общием компоненте, вставляем: `<CustomLink />`
 
 
+![Settings Window](https://raw.github.com/voLter-2109/startPage/main/stinger.png)
